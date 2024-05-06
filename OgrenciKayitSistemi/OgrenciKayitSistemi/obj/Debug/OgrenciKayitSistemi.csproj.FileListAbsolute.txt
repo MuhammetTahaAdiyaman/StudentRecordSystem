@@ -1,0 +1,13 @@
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe.config
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.pdb
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Form1.resources
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Properties.Resources.resources
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.exe
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.pdb
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.FrmIstatistik.resources
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.FrmGrafikler.resources
+C:\Users\muham\OneDrive\masaüstü\CSharp\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.FrmGiris.resources
